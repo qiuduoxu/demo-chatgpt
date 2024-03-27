@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4484073 */
+  src: url('iconfont.woff2?t=1711511359767') format('woff2'),
+       url('iconfont.woff?t=1711511359767') format('woff'),
+       url('iconfont.ttf?t=1711511359767') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-guanbi:before {
+  content: "\e61e";
+}
+
